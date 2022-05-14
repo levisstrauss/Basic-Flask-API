@@ -1,7 +1,9 @@
-===================== Api creation with Flask ====================
+===================== Simple FLASK API ====================
 
 
                    ====== Installation =======
+
+                  Flask
 
 1 - Create a new project
 
